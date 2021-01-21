@@ -4,6 +4,7 @@ using namespace std;
 
 #define tam 50
 
+// FUNCIONES
 void ingresar (int a[], int n);
 
 void ordenar (int a[], int n);
@@ -11,7 +12,7 @@ void ordenar (int a[], int n);
 void imprimir (int a[], int n);
 
 
-
+// FUNCIÓN MAIN
 int main()
 {
 
